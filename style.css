@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    color:white;
+}
+
+.row-item-box-100{
+    display:inline-block;
+    width: 100%;
+    height: 100%;
+}
+
+.row-item-box-50{
+    display:inline-block;
+    width: 49.5%;
+    height: 100%;
+}
+
+.row-item-box-25{
+    display:inline-block;
+    width: 24%;
+    height: 100%;
+}
+
+.row-container{
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 20%;
+}
+
+.background-color-navy{
+    background-color: #281C59;
+}
+
+.background-color-blue{
+    background-color: #4E8D9C;   
+}
+
+.background-color-green{
+    background-color: #85C79A;
+}
+
+.background-color-sea{
+    background-color: #EDF7BD;
+}
+
+/* .border-style-1{
+border: 10px groove navy;
+}
+
+.border-style-2{
+    border: 10px groove aqua;
+}
+
+.border-style-3{
+    border: 10px groove teal;
+} */
