@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
     color:white;
+    font-size: 2vw;
 }
 
 .row-item-box-100{
@@ -25,9 +26,9 @@
 
 .row-container{
     display: block;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    height: 20%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 15%;
 }
 
 .background-color-navy{
@@ -46,14 +47,14 @@
     background-color: #EDF7BD;
 }
 
-/* .border-style-1{
-border: 10px groove navy;
+.border-style-1{
+border: 10px solid #4993FA;
 }
 
 .border-style-2{
-    border: 10px groove aqua;
+    border: 10px solid #A0E4F1;
 }
 
 .border-style-3{
-    border: 10px groove teal;
-} */
+    border: 10px dotted #4993FA;
+}
